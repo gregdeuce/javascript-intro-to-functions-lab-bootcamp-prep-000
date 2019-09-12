@@ -20,8 +20,8 @@ function logWhisper(string) {
 }
 
 function sayHiToGrandma(string) {
-  if (string.toUpperCase())
-  return "YES INDEED!"
+  return string.toUpperCase
+  console.log("YES INDEED!")
 }
 
 function sayHiToGrandma(string) {
