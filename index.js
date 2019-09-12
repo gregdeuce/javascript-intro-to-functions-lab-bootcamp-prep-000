@@ -12,5 +12,6 @@ function sayHiToGrandma(string) {
 }
 
 function logShout(string) {
-  console.log("Hello".toUpperCase)
+  var yo = "hello"
+  console.log("yo".toUpperCase)
 }
